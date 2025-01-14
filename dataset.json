@@ -1,0 +1,902 @@
+[
+    {
+        "id": 1,
+        "question": "What does WASHNORM stand for?",
+        "difficulty": 2,
+        "answers": [
+            "WASHNORM stands for Water, Sanitation, and Hygiene National Outcome Routine Mapping.",
+            "WASHNORM is an acronym for Water, Sanitation, and Hygiene National Outcome Routine Mapping.",
+            "The full form of WASHNORM is Water Sanitation and Hygiene National Outcome Routine Mapping."
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What is the annual WASHNORM survey?",
+        "difficulty": 1,
+        "answers": [
+            "The annual WASHNORM survey collects data on national households and facilities, covering key WASH sector indicators.",
+            "WASHNORM is an annual survey that gathers household and facility data to track WASH sector outcomes.",
+            "Each year, the WASHNORM survey collects a variety of outcome indicators related to the WASH sector from national households and facilities."
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What changes were made to the scope and methodology of WASHNORM 2019 in WASHNORM 2021?",
+        "difficulty": 3,
+        "answers": [
+            "The 2021 WASHNORM survey added COVID-19-related questions to the household module and expanded the public utility mapping to include energy needs for urban waterworks.",
+            "In WASHNORM 2021, new COVID-19 questions were included in the household module, and the mapping of public utilities was expanded to include the energy requirements for urban waterworks.",
+            "WASHNORM 2021 included questions about COVID-19 in the household module and extended public utility mapping to account for energy requirements in urban waterworks."
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What are some key objectives of WASHNORM?",
+        "difficulty": 2,
+        "answers": [
+            "WASHNORM aims to provide current and detailed data, gather stakeholder insights, monitor WASH outcomes, and strengthen WASH institutions.",
+            "Key objectives of WASHNORM include delivering accurate data, tracking WASH outcomes, engaging stakeholders, and improving WASH institutions.",
+            "The primary goals of WASHNORM are to offer up-to-date data, engage with stakeholders, track outcomes, and strengthen WASH institutions."
+        ]
+    },
+    {
+        "id": 5,
+        "question": "On what basis are state-wide WASH investment plans developed?",
+        "difficulty": 2,
+        "answers": [
+            "State-wide WASH investment plans are formulated based on the data derived from the WASHNORM report.",
+            "WASHNORM data serves as the foundation for developing state-wide WASH investment plans.",
+            "The data collected from the WASHNORM report is used to create state-wide WASH investment plans."
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Where in Nigeria was WASHNORM carried out?",
+        "difficulty": 1,
+        "answers": [
+            "WASHNORM was conducted across all 36 states of Nigeria and the Federal Capital Territory, Abuja.",
+            "WASHNORM was implemented in all 36 states and the FCT of Nigeria.",
+            "The survey took place in all 36 Nigerian states and the Federal Capital Territory, Abuja."
+        ]
+    },
+    {
+        "id": 7,
+        "question": "When was data collection conducted?",
+        "difficulty": 1,
+        "answers": [
+            "Data collection took place during the third and fourth quarters of 2021.",
+            "The data was gathered in the last two quarters of 2021.",
+            "Data collection occurred in the third and fourth quarters of the year 2021."
+        ]
+    },
+    {
+        "id": 8,
+        "question": "How many EAs were covered in total, in all 36 states?",
+        "difficulty": 1,
+        "answers": [
+            "1,640 EAs were covered across all 36 states.",
+            "A total of 1,640 enumeration areas were surveyed in the 36 states.",
+            "In all 36 states, 1,640 EAs were covered."
+        ]
+    },
+    {
+        "id": 9,
+        "question": "How many households were targeted in each state excepting Lagos and Kano?",
+        "difficulty": 3,
+        "answers": [
+            "600 households were targeted per state, excluding Lagos and Kano.",
+            "For each state other than Lagos and Kano, 600 households were targeted.",
+            "600 households were targeted in every state except Lagos and Kano."
+        ]
+    },
+    {
+        "id": 10,
+        "question": "How many households were targeted in each of Lagos and Kano?",
+        "difficulty": 3,
+        "answers": [
+            "Each of Lagos and Kano targeted 1,800 households.",
+            "1,800 households were targeted in both Lagos and Kano.",
+            "Lagos and Kano each had 1,800 households targeted."
+        ]
+    },
+    {
+        "id": 11,
+        "question": "How many households were targeted in total?",
+        "difficulty": 3,
+        "answers": [
+            "A total of 24,600 households were targeted.",
+            "In total, 24,600 households were targeted.",
+            "The total number of households targeted was 24,600."
+        ]
+    },
+    {
+        "id": 12,
+        "question": "How was the water quality assessment done?",
+        "difficulty": 2,
+        "answers": [
+            "Water quality assessment was conducted by listing water points in each EA and selecting 8,200 households across the states.",
+            "The assessment involved listing all water points in an EA and selecting 8,200 households nationwide.",
+            "Water quality was assessed by listing water points within EAs, selecting 8,200 households across states."
+        ]
+    },
+    {
+        "id": 13,
+        "question": "Which institutions were included in the sampling frames?",
+        "difficulty": 2,
+        "answers": [
+            "The sampling frame included primary and secondary schools, health facilities, urban water utilities, markets, and motor parks.",
+            "Institutions like primary schools, secondary schools, health facilities, urban water utilities, markets, and motor parks were included.",
+            "Primary schools, secondary schools, health facilities, urban water utilities, markets, and motor parks were part of the sampling frame."
+        ]
+    },
+    {
+        "id": 14,
+        "question": "How many primary and secondary schools were listed across the country?",
+        "difficulty": 1,
+        "answers": [
+            "A total of 2,050 primary and secondary schools were listed nationwide.",
+            "2,050 primary and secondary schools were listed throughout the country.",
+            "The total number of primary and secondary schools listed across the country was 2,050."
+        ]
+    },
+    {
+        "id": 15,
+        "question": "What percent of the targeted samples was data collected from?",
+        "difficulty": 1,
+        "answers": [
+            "Data collection covered 98.6% of the targeted samples.",
+            "98.6% of the targeted samples had data collected.",
+            "Data was obtained from 98.6% of the targeted samples."
+        ]
+    },
+    {
+        "id": 16,
+        "question": "How many households were actually covered in the houshold survey?",
+        "difficulty": 3,
+        "answers": [
+            "22,353 households were covered in total.",
+            "A total of 22,353 households were covered in the survey.",
+            "22,353 households were included in the survey."
+        ]
+    },
+    {
+        "id": 17,
+        "question": "How many households were actually covered for the water quality assessment?",
+        "difficulty": 3,
+        "answers": [
+            "7,859 households were covered for the water quality assessment.",
+            "7,859 households were part of the water quality assessment.",
+            "The water quality assessment covered 7,859 households."
+        ]
+    },
+    {
+        "id": 18,
+        "question": "How many facilities were covered for the water quality assessment?",
+        "difficulty": 3,
+        "answers": [
+            "2,761 facilities were covered for the water quality assessment.",
+            "A total of 2,761 facilities were assessed for water quality.",
+            "Water quality assessment covered 2,761 facilities."
+        ]
+    },
+    {
+        "id": 19,
+        "question": "How many households were covered for the Household WASH Expenditure?",
+        "difficulty": 3,
+        "answers": [
+            "22,353 households were covered for the household WASH expenditure.",
+            "22,353 households were targeted for the household WASH expenditure.",
+            "The household WASH expenditure survey covered 22,353 households."
+        ]
+    },
+    {
+        "id": 20,
+        "question": "How many facilities were covered for the water source mapping?",
+        "difficulty": 3,
+        "answers": [
+            "3,587 facilities were covered for the water source mapping.",
+            "3,587 facilities were assessed for water source mapping.",
+            "A total of 3,587 facilities were included in the water source mapping."
+        ]
+    },
+    {
+        "id": 21,
+        "question": "How many schools were covered in WASH for educational facilities?",
+        "difficulty": 3,
+        "answers": [
+            "2,016 schools were covered in WASH for educational facilities?",
+            "WASH for educational facilities covered 2,016 schools.",
+            "2,016 schools were included in the WASH educational facilities survey."
+        ]
+    },
+    {
+        "id": 22,
+        "question": "How many health facilities were covered?",
+        "difficulty": 3,
+        "answers": [
+            "1,265 health facilities were covered.",
+            "1,265 health facilities were part of the survey.",
+            "The survey covered 1,265 health facilities."
+        ]
+    },
+    {
+        "id": 23,
+        "question": "How many markets and motor parks were covered?",
+        "difficulty": 3,
+        "answers": [
+            "1,187 markets and motor parks were covered.",
+            "1,187 markets and motor parks were included in the survey.",
+            "The survey covered 1,187 markets and motor parks."
+        ]
+    },
+    {
+        "id": 24,
+        "question": "How many water utilities were covered in Urban Water Utilities Mapping?",
+        "difficulty": 3,
+        "answers": [
+            "28 water utilities were covered.",
+            "A total of 28 water utilities were assessed.",
+            "The survey covered 28 water utilities."
+        ]
+    },
+    {
+        "id": 25,
+        "question": "How many households were covered in the Urban Water Utilities Consumer Satisfaction Survey?",
+        "difficulty": 3,
+        "answers": [
+            "5,437 households were covered in the Urban Water Utilities Consumer Satisfaction Survey.",
+            "The Urban Water Utilities Consumer Satisfaction Survey covered 5,437 households.",
+            "5,437 households were included in the Urban Water Utilities Consumer Satisfaction Survey."
+        ]
+    },
+    {
+        "id": 26,
+        "question": "Which of NORM 2019 and NORM 2021 had a higher number of households covered?",
+        "difficulty": 3,
+        "answers": [
+            "NORM 2019 had a higher number of households covered compared to NORM 2021.",
+            "NORM 2019 covered more households than NORM 2021.",
+            "NORM 2019 had a greater number of households covered than NORM 2021."
+        ]
+    },
+    {
+        "id": 27,
+        "question": "Describe the survey instruments WASHNORM used.",
+        "difficulty": 2,
+        "answers": [
+            "WASHNORM utilized six sets of questionnaires that broadly focus on two components: household-based assessments of WASH service levels, and facility-based assessments of WASH infrastructure in communities, education and health institutions and public places (markets and motor parks).",
+            "WASHNORM used six questionnaires focusing on household and facility-based assessments of WASH services and infrastructure in different sectors.",
+            "The survey instruments included six questionnaires focusing on household and facility assessments related to WASH services and infrastructure in education, health, and public spaces."
+        ]
+    },
+    {
+        "id": 28,
+        "question": "Who developed the indicators and household survey questions WASHNORM uses?",
+        "difficulty": 1,
+        "answers": [
+            "UNICEF/WHO Joint Monitoring Programme (JMP) developed the indicators and household survey questions WASHNORM uses.",
+            "The indicators and household survey questions used by WASHNORM were developed by the UNICEF/WHO Joint Monitoring Programme.",
+            "WASHNORM's survey questions and indicators were developed by the UNICEF/WHO Joint Monitoring Programme (JMP)."
+        ]
+    },
+    {
+        "id": 29,
+        "question": "What additional questionnaires were developed?",
+        "difficulty": 2,
+        "answers": [
+            "A questionnaire was developed specifically for the urban water utilities mapping and consumers' satisfaction survey.",
+            "A dedicated questionnaire was created for the urban water utilities mapping and consumer satisfaction survey.",
+            "The urban water utilities mapping and consumer satisfaction survey had its own specific questionnaire."
+        ]
+    },
+    {
+        "id": 30,
+        "question": "What parameters did the household survey questionnaire cover?",
+        "difficulty": 1,
+        "answers": [
+            "The household survey questionnaire covered parameters on household characteristics, WASH facilities' coverage, functionality, availability, accessibility, quality, user participation, satisfaction, determinants of sustainability, access to and satisfaction with public water utilities, and household expenditure on WASH services.",
+            "The household survey covered a wide range of parameters such as household characteristics, WASH facility access, satisfaction, quality, and public water utilities.",
+            "The household survey questionnaire included questions about household characteristics, WASH services, user satisfaction, sustainability, and expenditure on WASH services."
+        ]
+    },
+    {
+        "id": 31,
+        "question": "What did the water facilities mapping module covered?",
+        "difficulty": 1,
+        "answers": [
+            "The water facilities mapping module covered general characteristics and features of water facilities, accessibility, facility management, water quality status, and sanitary inspection.",
+            "The water facilities mapping module assessed water facilities\u2019 characteristics, management, quality status, and accessibility.",
+            "The module covered features like accessibility, water quality, facility management, and sanitary inspection of water facilities."
+        ]
+    },
+    {
+        "id": 32,
+        "question": "What did the institutional tools cover?",
+        "difficulty": 1,
+        "answers": [
+            "The institutional tools covered general information on institutional facilities and access to WASH services.",
+            "The institutional tools focused on institutional facilities and their access to WASH services.",
+            "The institutional tools gathered general data on facilities and their access to WASH services."
+        ]
+    },
+    {
+        "id": 33,
+        "question": "What did the water utilities network mapping tool cover?",
+        "difficulty": 1,
+        "answers": [
+            "The water utilities network mapping tool covered a range of technical information on Intake, Treatment Plants, Storage facilities, Booster Stations and Pipe Networks, as well as general information on treatment installations, installed capacity, capacity utilization, energy requirement, personnel and staffing, connections and tariff system in place.",
+            "The water utilities network mapping tool collected technical data on water intake, treatment plants, storage, networks, and other operational aspects.",
+            "The mapping tool covered technical aspects such as intake, treatment plants, storage, and distribution networks of water utilities."
+        ]
+    },
+    {
+        "id": 34,
+        "question": "What did the water utilities consumers' satisfaction survey cover?",
+        "difficulty": 2,
+        "answers": [
+            "The water utilities consumers' satisfaction survey covered general information of the household, quality of water supply services, customer satisfaction ratings on the quality of services, redress mechanisms and a section on water quality testing.",
+            "The water utilities consumer satisfaction survey included questions on household information, water quality, customer satisfaction, and service redress.",
+            "The survey included sections on water quality, customer satisfaction, household data, and redress mechanisms."
+        ]
+    },
+    {
+        "id": 35,
+        "question": "What are the main modules and tools used in WASHNORM?",
+        "difficulty": 3,
+        "answers": [
+            "The household survey questionnaire, the water facilities mapping module, the institutional tools, and the water utilities network mapping tool were used.",
+            "WASHNORM used four main tools: the household survey, water facilities mapping, institutional tools, and water utilities network mapping.",
+            "The main modules used in WASHNORM include the household survey, water facilities mapping, institutional tools, and water utilities network mapping tool."
+        ]
+    },
+    {
+        "id": 36,
+        "question": "How is the WASHNORM data aggregated?",
+        "difficulty": 2,
+        "answers": [
+            "WASHNORM survey is aggregated at the state level, analysed and used to provide national estimates.",
+            "The WASHNORM data is aggregated at the state level to produce national estimates.",
+            "Data from WASHNORM is aggregated at the state level to give national-level findings."
+        ]
+    },
+    {
+        "id": 37,
+        "question": "What was the purpose of the pre-test and pilot test of the survey?",
+        "difficulty": 2,
+        "answers": [
+            "The pre-test and pilot test of the survey were conducted to assess the suitability and appropriateness of the questionnaires and survey implementation modalities.",
+            "The pre-test and pilot test were done to evaluate the survey's questions and implementation.",
+            "The purpose of the pre-test and pilot test was to check the relevance of the questions and survey methods."
+        ]
+    },
+    {
+        "id": 38,
+        "question": "How many field personnel collected the survey?",
+        "difficulty": 1,
+        "answers": [
+            "533 field personnel collected the survey.",
+            "A total of 533 field personnel were responsible for collecting the survey data.",
+            "533 field personnel were involved in collecting the survey data."
+        ]
+    },
+    {
+        "id": 39,
+        "question": "How was the data collected?",
+        "difficulty": 2,
+        "answers": [
+            "The data was collected through face-to-face interviews with household respondents using computer-assisted personal interviewing (CAPI) devices.",
+            "Data collection was done via face-to-face interviews using CAPI devices with household respondents.",
+            "Household data was collected using CAPI devices in face-to-face interviews."
+        ]
+    },
+    {
+        "id": 40,
+        "question": "How was SDG 6.1 evaluated?",
+        "difficulty": 3,
+        "answers": [
+            "Household water safety was assessed based on levels of thermotolerant coliform observed in the household water at the point of collection and consumption.",
+            "SDG 6.1 was assessed by measuring thermotolerant coliform levels in household water at collection and consumption points.",
+            "SDG 6.1 was evaluated through water quality tests that measured thermotolerant coliform at household water collection and consumption points."
+        ]
+    },
+    {
+        "id": 41,
+        "question": "What devices were used to perform water quality assessments?",
+        "difficulty": 2,
+        "answers": [
+            "Wagtech Palintest Water Quality mobile kits were used to perform water quality assessment.",
+            "Water quality assessments were done using Wagtech Palintest mobile kits.",
+            "Wagtech Palintest mobile kits were the devices used for performing water quality assessments."
+        ]
+    },
+    {
+        "id": 42,
+        "question": "What was the overall response rate for the 2021 WASHNORM household survey?",
+        "difficulty": 1,
+        "answers": [
+            "The overall response rate for the 2021 WASHNORM household survey was 98 % from a total of 24,600 households sampled.",
+            "The response rate for the 2021 WASHNORM survey was 98%, with 24,600 households surveyed.",
+            "A response rate of 98% was achieved for the 2021 WASHNORM household survey from a total of 24,600 households."
+        ]
+    },
+    {
+        "id": 43,
+        "question": "What do the findings of WASHNORM provide?",
+        "difficulty": 1,
+        "answers": [
+            "The findings of the 2021 WASHNORM provide an analysis of household's access to basic WASH services, including quality of drinking water and access and satisfaction levels with water supply services; assessment of water facilities in communities; WASH in schools, hospitals, markets and motor parks; and household expenditure on WASH services.",
+            "The findings provide an analysis of access to WASH services, water quality, satisfaction levels, and WASH facilities in communities, schools, hospitals, and markets.",
+            "WASHNORM findings analyze access to basic WASH services, including drinking water quality, access levels, and satisfaction, alongside facility assessments."
+        ]
+    },
+    {
+        "id": 44,
+        "question": "How many percent of households are headed by women?",
+        "difficulty": 2,
+        "answers": [
+            "19% of households are headed by women.",
+            "19% of the households surveyed were led by women.",
+            "A total of 19% of households are headed by women."
+        ]
+    },
+    {
+        "id": 45,
+        "question": "What percentage of the population are children under the age of 5?",
+        "difficulty": 1,
+        "answers": [
+            "8% of the population are children under the age of 5.",
+            "8% of the population consists of children under 5 years old.",
+            "Children under the age of 5 make up 8% of the population."
+        ]
+    },
+    {
+        "id": 46,
+        "question": "How many percent of the population are adults above the age of 50?",
+        "difficulty": 1,
+        "answers": [
+            "15% of the population are adults above the age of 50.",
+            "15% of the population is above 50 years old.",
+            "15% of the total population are adults aged 50 and above."
+        ]
+    },
+    {
+        "id": 47,
+        "question": "How many people in Nigeria live with disabilities and what is that number in percentage?",
+        "difficulty": 1,
+        "answers": [
+            "11 million people in Nigeria live with disabilities and that is 6% of the population.",
+            "6% of Nigerians live with disabilities, totaling 11 million people.",
+            "11 million Nigerians, or 6% of the population, live with disabilities."
+        ]
+    },
+    {
+        "id": 48,
+        "question": "What percentage of households live in rural areas?",
+        "difficulty": 1,
+        "answers": [
+            "Slightly more than 65% of households live in rural areas.",
+            "More than 65% of households in Nigeria reside in rural areas.",
+            "65% of households are located in rural areas."
+        ]
+    },
+    {
+        "id": 49,
+        "question": "How much of the country's population belongs to the poor and poorest wealth quintiles?",
+        "difficulty": 2,
+        "answers": [
+            "Almost half of the country's population belongs to the poor and poorest wealth quintiles.",
+            "Around 50% of Nigeria's population is in the poorest wealth quintiles.",
+            "Almost half of Nigeria's population is categorized in the poor and poorest wealth quintiles."
+        ]
+    },
+    {
+        "id": 50,
+        "question": "How many percent of Nigerians do not have access to safely managed drinking water services and what is that in numbers?",
+        "difficulty": 3,
+        "answers": [
+            "87% of Nigerians do not have access to safely managed drinking water services and that is 179 million in numbers.",
+            "87% of the population lacks access to safely managed drinking water, totaling 179 million people.",
+            "87% of Nigerians, which is equivalent to 179 million, lack access to safely managed drinking water services."
+        ]
+    },
+    {
+        "id": 51,
+        "question": "Which region has the lowest access to safely managed drinking water supply services?",
+        "difficulty": 2,
+        "answers": [
+            "The Northeast has the lowest access to safely managed drinking water supply services at 2%.",
+            "The Northeast region has the lowest access to safely managed drinking water supply services at just 2%.",
+            "With only 2% access, the Northeast region has the lowest safe drinking water supply access."
+        ]
+    },
+    {
+        "id": 52,
+        "question": "Which region has the highest access to safely managed drinking water supply services?",
+        "difficulty": 2,
+        "answers": [
+            "The Southwest has the highest access to safely managed drinking water supply services at 29%.",
+            "The Southwest region boasts the highest access to safely managed drinking water supply services at 29%.",
+            "29% of the Southwest region has access to safely managed drinking water services, the highest in Nigeria."
+        ]
+    },
+    {
+        "id": 53,
+        "question": "What is the disparity between access levels available to urban and rural areas?",
+        "difficulty": 3,
+        "answers": [
+            "Urban areas have access levels at 86% and rural areas have access levels at 57%.",
+            "Access levels are 86% in urban areas and 57% in rural areas.",
+            "In urban areas, 86% have access to drinking water services, compared to 57% in rural areas."
+        ]
+    },
+    {
+        "id": 54,
+        "question": "How much is access to basic water supply services available to the richest households?",
+        "difficulty": 2,
+        "answers": [
+            "Access to basic water supply services available to the richest households at 92%.",
+            "92% of the richest households have access to basic water supply services.",
+            "Basic water supply services are accessible to 92% of the richest households in Nigeria."
+        ]
+    },
+    {
+        "id": 55,
+        "question": "What percentage of the population use pipe-borne water?",
+        "difficulty": 1,
+        "answers": [
+            "11% of the population use pipe-borne water.",
+            "11% of Nigerians rely on pipe-borne water.",
+            "11% of the Nigerian population uses pipe-borne water."
+        ]
+    },
+    {
+        "id": 56,
+        "question": "What percentage of the population have access to improved water supply within the premises?",
+        "difficulty": 1,
+        "answers": [
+            "32% of the population have water within their premises.",
+            "32% of the population has access to water within their premises.",
+            "32% of households have water supply located within the premises."
+        ]
+    },
+    {
+        "id": 57,
+        "question": "What is the average time to fetch water for households whose water points are not located within the premises?",
+        "difficulty": 1,
+        "answers": [
+            "The average time to fetch water is 17 minutes for households whose water points are not located within the premises.",
+            "On average, it takes 17 minutes to fetch water for households without in-premises water points.",
+            "17 minutes is the average time to fetch water for households whose water points are not within their premises."
+        ]
+    },
+    {
+        "id": 58,
+        "question": "What percent of the population are found to have access to basic sanitation services in 2021?",
+        "difficulty": 1,
+        "answers": [
+            "46% of the population have access to basic sanitation services in 2021.",
+            "In 2021, 46% of the population had access to basic sanitation services.",
+            "Basic sanitation services were accessible to 46% of the population in 2021."
+        ]
+    },
+    {
+        "id": 59,
+        "question": "How many people use safe managed sanitations services?",
+        "difficulty": 1,
+        "answers": [
+            "18% of people use safe managed sanitations services",
+            "18% of Nigerians use safely managed sanitation services.",
+            "18% of people in Nigeria have access to safely managed sanitation services."
+        ]
+    },
+    {
+        "id": 60,
+        "question": "What was the increase in access to hygiene services between 2019 and 2021",
+        "difficulty": 2,
+        "answers": [
+            "Access to hygiene services increased by 1% between 2019 and 2021.",
+            "Hygiene service access increased by 1% from 2019 to 2021.",
+            "There was a 1% increase in access to hygiene services from 2019 to 2021."
+        ]
+    },
+    {
+        "id": 61,
+        "question": "What percent of the population use improved sanitation facilities with a proper handwashing station that has running water and soap?",
+        "difficulty": 1,
+        "answers": [
+            "13 % of the population use improved sanitation facilities with a proper handwashing station that has running water and soap.",
+            "13% of the population have access to improved sanitation with a functional handwashing station.",
+            "13% of the population uses sanitation facilities with a proper handwashing station with running water and soap."
+        ]
+    },
+    {
+        "id": 62,
+        "question": "How many states have urban water utilities and how many are fully functional?",
+        "difficulty": 2,
+        "answers": [
+            "28 states have urban water utilities, and 16 states are fully functional.",
+            "There are 28 states with urban water utilities, of which 16 are fully functional.",
+            "28 states have urban water utilities, and 16 are fully functional."
+        ]
+    },
+    {
+        "id": 63,
+        "question": "How many waterworks are there in Nigeria?",
+        "difficulty": 1,
+        "answers": [
+            "1,412 waterworks.",
+            "There are 1,412 waterworks in Nigeria.",
+            "The number of waterworks in Nigeria is 1,412."
+        ]
+    },
+    {
+        "id": 64,
+        "question": "How many cubic metres of water per day were the waterworks assessed estimated to be and how much was it actually?",
+        "difficulty": 2,
+        "answers": [
+            "The combined capacity of all waterworks assessed is estimated to be 8 million cubic metres per day, but it is actually 2 million cubic metres per day.",
+            "The estimated combined capacity of all waterworks is 8 million cubic metres/day, but the actual capacity is only 2 million cubic metres/day.",
+            "The actual combined capacity of waterworks assessed is 2 million cubic metres/day, compared to the estimated 8 million."
+        ]
+    },
+    {
+        "id": 65,
+        "question": "What percentage of households are satisfied with water supplied?",
+        "difficulty": 1,
+        "answers": [
+            "16% of households are satisfied with water supplied.",
+            "16% of households express satisfaction with the water supplied.",
+            "Only 16% of households are satisfied with the water supply provided."
+        ]
+    },
+    {
+        "id": 66,
+        "question": "How many water points are in Nigeria?",
+        "difficulty": 1,
+        "answers": [
+            "There are 2.3 million water points in Nigeria.",
+            "Nigeria has 2.3 million water points.",
+            "There are 2.3 million water points across Nigeria."
+        ]
+    },
+    {
+        "id": 67,
+        "question": "What is the average per capita share for water supply in Nigeria?",
+        "difficulty": 1,
+        "answers": [
+            "The average per capita share for water supply in Nigeria is 10 litres per person per day.",
+            "Nigerians use an average of 10 litres per person per day for water.",
+            "The per capita share for water supply in Nigeria is 10 litres per day."
+        ]
+    },
+    {
+        "id": 68,
+        "question": "How many schools have basic water supply services?",
+        "difficulty": 1,
+        "answers": [
+            "A third of schools (37%) have basic water supply services.",
+            "37% of schools in Nigeria have access to basic water supply services.",
+            "37% of schools provide basic water supply services."
+        ]
+    },
+    {
+        "id": 69,
+        "question": "How many schools have access to basic sanitation services?",
+        "difficulty": 1,
+        "answers": [
+            "30% of schools have access to basic sanitation services.",
+            "30% of schools have access to basic sanitation services in Nigeria.",
+            "Basic sanitation services are available to 30% of schools in Nigeria."
+        ]
+    },
+    {
+        "id": 70,
+        "question": "How many schools have access to a combination of basic water and sanitation services?",
+        "difficulty": 2,
+        "answers": [
+            "17 % of schools have access to a combination of basic water and sanitation services. Specifically, only 19 % of schools have basic water and hygiene services",
+            "17% of schools have both basic water and sanitation services, and 19% have basic water and hygiene services.",
+            "17% of schools have access to both basic water and sanitation services; only 19% have water and hygiene services."
+        ]
+    },
+    {
+        "id": 71,
+        "question": "How many health facilities have basic water supply services?",
+        "difficulty": 1,
+        "answers": [
+            "59% of health facilities have basic water supply services.",
+            "59% of health facilities have access to basic water supply services.",
+            "59% of health facilities are provided with basic water supply services."
+        ]
+    },
+    {
+        "id": 72,
+        "question": "How many health facilities have basic sanitation services which are separated for females and allow for menstrual hygiene management?",
+        "difficulty": 1,
+        "answers": [
+            "1 in 10 health facilities (12%) have basic sanitation services which are separated for females and allow for menstrual hygiene management.",
+            "12% of health facilities provide sanitation services separated for females and include menstrual hygiene management.",
+            "12% of health facilities have basic sanitation services, including facilities separated for females and menstrual hygiene management."
+        ]
+    },
+    {
+        "id": 73,
+        "question": "How many health facilities have improved toilets that are accessible to those with limited mobility?",
+        "difficulty": 1,
+        "answers": [
+            "1 in 4 health facilities (23 %) have improved toilets that are accessible to those with limited mobility.",
+            "23% of health facilities in Nigeria have improved toilets that are accessible to people with limited mobility.",
+            "23% of health facilities have accessible toilets for people with limited mobility."
+        ]
+    },
+    {
+        "id": 74,
+        "question": "How many markets and motor parks have access to basic sanitation services?",
+        "difficulty": 1,
+        "answers": [
+            "33% of markets and motor parks have access to basic sanitation services.",
+            "33% of markets and motor parks have access to basic sanitation services.",
+            "Basic sanitation services are available at 33% of markets and motor parks."
+        ]
+    },
+    {
+        "id": 75,
+        "question": "How much did households spend in 2021 for WASH?",
+        "difficulty": 1,
+        "answers": [
+            "Households spent \u20a63.4 trillion which translates to $8.5 billion in 2021 for WASH.",
+            "In 2021, households spent \u20a63.4 trillion ($8.5 billion) on WASH services.",
+            "Households spent \u20a63.4 trillion, or $8.5 billion, on WASH services in 2021."
+        ]
+    },
+    {
+        "id": 76,
+        "question": "How much was spent on water supply services in 2021?",
+        "difficulty": 1,
+        "answers": [
+            "\u20a61.03 trillion or $2.6 billion was spent on water supply services in 2021.",
+            "In 2021, \u20a61.03 trillion ($2.6 billion) was spent on water supply services.",
+            "The expenditure on water supply services in 2021 was \u20a61.03 trillion ($2.6 billion)."
+        ]
+    },
+    {
+        "id": 77,
+        "question": "Provide a breakdown of how the funds spent on water supply services were spent.",
+        "difficulty": 3,
+        "answers": [
+            "14 % was spent on water treatment, 50 % on storage and transport and 31 % on bills and levies",
+            "The breakdown of water supply service spending: 14% on water treatment, 50% on storage and transport, and 31% on bills and levies.",
+            "Of the funds spent on water supply services, 14% was allocated for water treatment, 50% for storage and transport, and 31% for bills and levies."
+        ]
+    },
+    {
+        "id": 78,
+        "question": "How much was spent on sanitation services in 2021?",
+        "difficulty": 1,
+        "answers": [
+            "\u20a666 billion or $166 million was spent on sanitation services in 2021.",
+            "In 2021, \u20a666 billion ($166 million) was spent on sanitation services.",
+            "\u20a666 billion ($166 million) was the expenditure for sanitation services in 2021."
+        ]
+    },
+    {
+        "id": 79,
+        "question": "Provide a breakdown of how the funds spent on sanitation services were spent.",
+        "difficulty": 3,
+        "answers": [
+            "9 % was spent on bills and levies, 35 % on toilet emptying, and 33 % on construction",
+            "The breakdown for sanitation service spending: 9% on bills and levies, 35% on toilet emptying, and 33% on construction.",
+            "For sanitation services, 9% of the funds were spent on bills and levies, 35% on toilet emptying, and 33% on construction."
+        ]
+    },
+    {
+        "id": 80,
+        "question": "How much was spent by households on hygiene services in 2021?",
+        "difficulty": 1,
+        "answers": [
+            "\u20a62.3 trillion or $5.9 billion was spent by households on hygiene services in 2021.",
+            "In 2021, households spent \u20a62.3 trillion ($5.9 billion) on hygiene services.",
+            "\u20a62.3 trillion ($5.9 billion) was spent on hygiene services by households in 2021."
+        ]
+    },
+    {
+        "id": 81,
+        "question": "How many people practice open defecation?",
+        "difficulty": 2,
+        "answers": [
+            "48 million people practice open defecation.",
+            "48 million people in Nigeria practice open defecation.",
+            "There are 48 million people in Nigeria who practice open defecation."
+        ]
+    },
+    {
+        "id": 82,
+        "question": "How many percent of the population have access to basic water, sanitation, and hygiene services?",
+        "difficulty": 2,
+        "answers": [
+            "10% of the population have access to basic water, sanitation, and hygiene services.",
+            "Only 10% of the population has access to basic water, sanitation, and hygiene services.",
+            "10% of the population in Nigeria have access to basic water, sanitation, and hygiene services."
+        ]
+    },
+    {
+        "id": 83,
+        "question": "How many percent of the population use basic drinking water services?",
+        "difficulty": 2,
+        "answers": [
+            "67% of the population use basic drinking water services.",
+            "67% of Nigerians have access to basic drinking water services.",
+            "67% of the population use basic drinking water services."
+        ]
+    },
+    {
+        "id": 84,
+        "question": "How much is the average per capita volume of water for the rural population?",
+        "difficulty": 2,
+        "answers": [
+            "10 liters is the average per capita volume of water for the rural population.",
+            "The average per capita volume of water for the rural population is 10 liters.",
+            "Rural Nigerians have an average per capita water supply of 10 liters per day."
+        ]
+    },
+    {
+        "id": 85,
+        "question": "How many percent of the population use basic sanitation services?",
+        "difficulty": 2,
+        "answers": [
+            "46% percent of the population uses basic sanitation services.",
+            "46% of the population in Nigeria have access to basic sanitation services.",
+            "46% of the population use basic sanitation services."
+        ]
+    },
+    {
+        "id": 86,
+        "question": "How many percent of households have access to basic hygiene services?",
+        "difficulty": 2,
+        "answers": [
+            "17% of households have access to basic hygiene services.",
+            "17% of households in Nigeria have access to basic hygiene services.",
+            "17% of households are provided with basic hygiene services in Nigeria."
+        ]
+    },
+    {
+        "id": 87,
+        "question": "What percentage of schools have basic water, sanitation and hygiene services?",
+        "difficulty": 2,
+        "answers": [
+            "11% of schools have access to basic water, sanitation, and hygiene services.",
+            "Only 11% of schools have access to basic water, sanitation, and hygiene services.",
+            "11% of schools in Nigeria have access to basic water, sanitation, and hygiene services."
+        ]
+    },
+    {
+        "id": 88,
+        "question": "What percentage of health facilities have basic water, sanitation and hygiene services?",
+        "difficulty": 2,
+        "answers": [
+            "6% of health facilities have basic water, sanitation, and hygiene services.",
+            "6% of health facilities have access to basic water, sanitation, and hygiene services.",
+            "Only 6% of health facilities in Nigeria have access to basic water, sanitation, and hygiene services."
+        ]
+    },
+    {
+        "id": 89,
+        "question": "What percentage of markets and motor parks have basic water, sanitation and hygiene services?",
+        "difficulty": 2,
+        "answers": [
+            "4% of markets and motor parks have basic water, sanitation, and hygiene services.",
+            "4% of markets and motor parks in Nigeria have access to basic water, sanitation, and hygiene services.",
+            "Only 4% of markets and motor parks have access to basic water, sanitation, and hygiene services."
+        ]
+    },
+    {
+        "id": 90,
+        "question": "What percentage of those who suffered diarrhoea are children under the age of 5?",
+        "difficulty": 2,
+        "answers": [
+            "74 % of the household members who suffered diarrhoea cases are children under five.",
+            "74% of the household members who suffered diarrhoea cases were children under five.",
+            "74% of individuals who suffered from diarrhoea were children under the age of 5."
+        ]
+    }
+]
