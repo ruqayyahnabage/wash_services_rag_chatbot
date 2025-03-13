@@ -1,12 +1,11 @@
 # RAG Chatbot Trained to Answer Questions on Water, Sanitation and Hygiene Services in Nigeria
-A repository containing code that was used to train a RAG chatbot on WASH services in Nigeria. The paper describing the project can be found [here](https://drive.google.com/file/d/1sqge68bPEClNowhBA91b1-alH0HQBQWY/view?usp=sharing).
+A repository containing code that was used to train a RAG chatbot on WASH services in Nigeria. The paper describing the project can be found [here](https://drive.google.com/file/d/1sqge68bPEClNowhBA91b1-alH0HQBQWY/view?usp=sharing). The dataset curated for this project can also be found on HuggingFace at [this link](https://huggingface.co/datasets/rnabage/washnorm2021_test_questions) for easy integration into your projects.
 
 ### Files in Repo
 The [baseline.ipynb](https://github.com/ruqayyahnabage/wash_services_rag_chatbot/blob/main/baseline.ipynb) notebook is the initial naive RAG.
 The [qa_extraction.ipynb](https://github.com/ruqayyahnabage/wash_services_rag_chatbot/blob/main/qa_extraction.ipynb) notebook contains the notebook where the question and answer pairs used as test data where extracted.
 The [raw_q_and_a folder](https://github.com/ruqayyahnabage/wash_services_rag_chatbot/tree/main/raw_q_and_a) contains the questions and answers in different levels before they were edited and compiled into the final 90 Q&A Pairs in test_data.pkl and if you prefer to have them in json format they can be found in the [dataset.json](https://github.com/ruqayyahnabage/wash_services_rag_chatbot/tree/main/dataset.json)
 
-The data can also be found on HuggingFace at [this link](https://huggingface.co/datasets/rnabage/washnorm2021_test_questions) for easier integration into your projects.
 
 ### Introduction
 
