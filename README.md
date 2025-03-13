@@ -1,5 +1,5 @@
 # RAG Chatbot Trained to Answer Questions on Water, Sanitation and Hygiene Services in Nigeria
-A repository containing code that was used to train a RAG chatbot on WASH services in Nigeria.
+A repository containing code that was used to train a RAG chatbot on WASH services in Nigeria. The paper describing the project can be found [here](https://drive.google.com/file/d/1sqge68bPEClNowhBA91b1-alH0HQBQWY/view?usp=sharing).
 
 ### Files in Repo
 The [baseline.ipynb](https://github.com/ruqayyahnabage/wash_services_rag_chatbot/blob/main/baseline.ipynb) notebook is the initial naive RAG.
